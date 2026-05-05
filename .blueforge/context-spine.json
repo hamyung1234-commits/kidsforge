@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "projectId": "",
+  "createdAt": "2026-05-05T06:31:43.224Z",
+  "lastUpdatedAt": "2026-05-05T07:07:15.146Z",
+  "decisions": [
+    {
+      "type": "general",
+      "title": "User request: [KidsForge 제품 기획 및 디자인 방향]\n\n우리는 'Blueforge'(글로만 모든 것을 만드는 AI 코딩 플랫폼)의 아동용 버전 'Ki",
+      "description": "[KidsForge 제품 기획 및 디자인 방향]\n\n우리는 'Blueforge'(글로만 모든 것을 만드는 AI 코딩 플랫폼)의 아동용 버전 'KidsForge(키즈포지)'를 만들고 있습니다.\n\n**핵심 타겟**: 6-12세 아동 (유튜브 키즈 사용층)\n\n**목표**: 아이들이 \"자연어 명령어\"만으로 프로그래밍 결과물을 만들면서 \"코딩의 기초 개념\"을 재미있게 학습\n\n---\n\n### [Visual & Interaction Design Guideline]\n\n1️⃣ **색상 팔레트**\n   - 주색: 밝은 파랑(#4A90E2), 밝은 초록",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777962703225-qpjj",
+      "createdAt": "2026-05-05T06:31:43.225Z",
+      "updatedAt": "2026-05-05T06:31:43.225Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 진행해줘",
+      "description": "진행해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777962781830-bu6e",
+      "createdAt": "2026-05-05T06:33:01.830Z",
+      "updatedAt": "2026-05-05T06:33:01.830Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 진행해줘",
+      "description": "진행해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777963096602-v49h",
+      "createdAt": "2026-05-05T06:38:16.602Z",
+      "updatedAt": "2026-05-05T06:38:16.602Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 진행해줘",
+      "description": "진행해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777963237396-l306",
+      "createdAt": "2026-05-05T06:40:37.396Z",
+      "updatedAt": "2026-05-05T06:40:37.396Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 진행해줘",
+      "description": "진행해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777963528084-dlzd",
+      "createdAt": "2026-05-05T06:45:28.084Z",
+      "updatedAt": "2026-05-05T06:45:28.084Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 수정할 것 두가지 첫째 좌측상단의 키즈포지 글자 더 그케 확대해줘 지금보다 두배정도 더 크게 하고 망치대신 이 키즈포지의 모 사이트인 블루포지의",
+      "description": "수정할 것 두가지 첫째 좌측상단의 키즈포지 글자 더 그케 확대해줘 지금보다 두배정도 더 크게 하고 망치대신 이 키즈포지의 모 사이트인 블루포지의 로고를 카피해서 같은 디자인으로 로고만 k 로 바꿔줘 두번째 수정내용 프롬프트창에 엔터키를 대신하는 화살표를 아이들이 더 좋아할 수 있도록 저 화살표 아이콘대신 요술방망이로 바꿔줘 뭐든지 뚝딱 만들어 준다는 의미니까 마우스가 위로 올려지면 뭔가 반짝이는 움직임도 넣어주고 위 두가지만 수정해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777963975549-1hzi",
+      "createdAt": "2026-05-05T06:52:55.549Z",
+      "updatedAt": "2026-05-05T06:52:55.549Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 수정했어?",
+      "description": "수정했어?",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964137799-vyvn",
+      "createdAt": "2026-05-05T06:55:37.799Z",
+      "updatedAt": "2026-05-05T06:55:37.799Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 추가수정 지크포지 로고 영문 k가 보이지 않음 k로고가 코딩의 느낌나도록 디자인 또하나 수정은 검색창의 요술 방망이가 요술 방망이 처럼 보이지 ",
+      "description": "추가수정 지크포지 로고 영문 k가 보이지 않음 k로고가 코딩의 느낌나도록 디자인 또하나 수정은 검색창의 요술 방망이가 요술 방망이 처럼 보이지 않음 검색창을 지금보다 조금 더 키워서 차라리 요술방망이 말고 램프릐 지니로 해줘 요술램프에서 지니가 반쯤 나와서 내 소원을 듣고 있다고 생각들게 캐릭더 수정",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964467695-lb52",
+      "createdAt": "2026-05-05T07:01:07.695Z",
+      "updatedAt": "2026-05-05T07:01:07.695Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 추가수정 키즈포지 로고 영문 k가 보이지 않음 k로고가 코딩의 느낌나도록 디자인 또하나 수정은 검색창의 요술 방망이가 요술 방망이 처럼 보이지 ",
+      "description": "추가수정 키즈포지 로고 영문 k가 보이지 않음 k로고가 코딩의 느낌나도록 디자인 또하나 수정은 검색창의 요술 방망이가 요술 방망이 처럼 보이지 않음 검색창을 지금보다 조금 더 키워서 차라리 요술방망이 말고 램프릐 지니로 해줘 요술램프에서 지니가 반쯤 나와서 내 소원을 듣고 있다고 생각들게 캐릭더 수정",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964493499-gj8d",
+      "createdAt": "2026-05-05T07:01:33.499Z",
+      "updatedAt": "2026-05-05T07:01:33.499Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 계속진행",
+      "description": "계속진행",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964563130-q3oj",
+      "createdAt": "2026-05-05T07:02:43.130Z",
+      "updatedAt": "2026-05-05T07:02:43.130Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 완료됐어?",
+      "description": "완료됐어?",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964722110-xp9l",
+      "createdAt": "2026-05-05T07:05:22.110Z",
+      "updatedAt": "2026-05-05T07:05:22.110Z"
+    },
+    {
+      "type": "general",
+      "title": "User request: 좋아 이제 깃허브 창 열어 놓았으니 배포해줘",
+      "description": "좋아 이제 깃허브 창 열어 놓았으니 배포해줘",
+      "status": "pending",
+      "source": "user",
+      "id": "d-1777964833141-ju9u",
+      "createdAt": "2026-05-05T07:07:13.141Z",
+      "updatedAt": "2026-05-05T07:07:13.141Z"
+    }
+  ],
+  "stageHistory": [],
+  "sessions": []
+}
